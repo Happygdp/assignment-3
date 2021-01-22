@@ -7,7 +7,7 @@ function kilometerToMeter(kilometer){
     var meter = kilometer * 1000;
     return meter;
 }
-var distrence = kilometerToMeter(-1);
+var distrence = kilometerToMeter(10);
 console.log(distrence);
 
 
